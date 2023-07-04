@@ -77,20 +77,10 @@
     },
     {
       "type": "text",
-<<<<<<< HEAD
       "version": 55,
       "versionNonce": 1148434948,
       "isDeleted": false,
       "id": "dPLhaWi73kvVDK3dfluWU",
-=======
-      "x": 613.7979736328125,
-      "y": 205,
-      "width": 508.43994140625,
-      "height": 25,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
->>>>>>> 80e3196c48d1a6d425ba9e2f1219157b36e42164
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
@@ -107,33 +97,17 @@
       "groupIds": [],
       "frameId": null,
       "roundness": null,
-<<<<<<< HEAD
       "boundElements": [],
       "updated": 1688360926279,
       "link": null,
       "locked": false,
-=======
-      "seed": 1159538296,
-      "version": 51,
-      "versionNonce": 135293048,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1688360493904,
-      "link": null,
-      "locked": false,
-      "text": "一个包可以包含多个二进制crate和一个可选的库crate。",
->>>>>>> 80e3196c48d1a6d425ba9e2f1219157b36e42164
       "fontSize": 20,
       "fontFamily": 1,
       "text": "一个包可以包含多个二进制crate和一个可选的库crate。一个包会包含一个Cargo.toml文件，阐述如何去构建这些crate。",
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-<<<<<<< HEAD
       "originalText": "一个包可以包含多个二进制crate和一个可选的库crate。一个包会包含一个Cargo.toml文件，阐述如何去构建这些crate。",
-=======
-      "originalText": "一个包可以包含多个二进制crate和一个可选的库crate。",
->>>>>>> 80e3196c48d1a6d425ba9e2f1219157b36e42164
       "lineHeight": 1.25,
       "baseline": 18
     },
@@ -175,8 +149,8 @@
     },
     {
       "type": "text",
-      "version": 55,
-      "versionNonce": 889764612,
+      "version": 56,
+      "versionNonce": 1222987818,
       "isDeleted": false,
       "id": "3jfuaiquOs4tViSglROHx",
       "fillStyle": "hachure",
@@ -185,7 +159,7 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 617.7979736328125,
+      "x": 606.5179443359375,
       "y": 372,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -196,7 +170,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1688360922195,
+      "updated": 1688450070110,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -211,8 +185,8 @@
     },
     {
       "type": "text",
-      "version": 38,
-      "versionNonce": 154625852,
+      "version": 39,
+      "versionNonce": 519479158,
       "isDeleted": false,
       "id": "r4iiW16VXUYD4iFHlhriq",
       "fillStyle": "hachure",
@@ -221,7 +195,7 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 618.7979736328125,
+      "x": 606.5179443359375,
       "y": 409,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -232,7 +206,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1688360922195,
+      "updated": 1688450070110,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -247,8 +221,8 @@
     },
     {
       "type": "text",
-      "version": 116,
-      "versionNonce": 1438825092,
+      "version": 117,
+      "versionNonce": 1759361770,
       "isDeleted": false,
       "id": "liukBTzNWxbfpEti45nom",
       "fillStyle": "hachure",
@@ -257,7 +231,7 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 618.7979736328125,
+      "x": 606.5179443359375,
       "y": 452,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -268,7 +242,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1688360922195,
+      "updated": 1688450070110,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -282,85 +256,155 @@
       "baseline": 68
     },
     {
-      "id": "xc4GRJ2mstBPLoBap_Y8p",
       "type": "text",
-      "x": 618.5179443359375,
-      "y": 547,
-      "width": 747.579833984375,
-      "height": 25,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
+      "version": 35,
+      "versionNonce": 1763655862,
+      "isDeleted": false,
+      "id": "xc4GRJ2mstBPLoBap_Y8p",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 606.5179443359375,
+      "y": 547,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 747.579833984375,
+      "height": 25,
+      "seed": 827066556,
       "groupIds": [],
       "frameId": null,
       "roundness": null,
-      "seed": 827066556,
-      "version": 34,
-      "versionNonce": 1757355964,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1688360922195,
+      "boundElements": [],
+      "updated": 1688450070110,
       "link": null,
       "locked": false,
-      "text": "crate root是一个源文件，Rust编译器以它为起始点，并构成你的crate的根模块。",
       "fontSize": 20,
       "fontFamily": 1,
+      "text": "crate root是一个源文件，Rust编译器以它为起始点，并构成你的crate的根模块。",
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 18,
       "containerId": null,
       "originalText": "crate root是一个源文件，Rust编译器以它为起始点，并构成你的crate的根模块。",
       "lineHeight": 1.25,
-      "isFrameName": false
+      "baseline": 18
     },
     {
-      "id": "5HAiG_a45r0-3CSFzFzk6",
       "type": "text",
-      "x": 613.5179443359375,
-      "y": 276,
-      "width": 861.919677734375,
-      "height": 50,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
+      "version": 60,
+      "versionNonce": 1343526916,
+      "isDeleted": false,
+      "id": "5HAiG_a45r0-3CSFzFzk6",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 613.5179443359375,
+      "y": 276,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 861.919677734375,
+      "height": 50,
+      "seed": 364077828,
       "groupIds": [],
       "frameId": null,
       "roundness": null,
-      "seed": 364077828,
-      "version": 60,
-      "versionNonce": 1343526916,
-      "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1688360970810,
       "link": null,
       "locked": false,
-      "text": "包中可以包含至多一个库crate(library crate)，可以包含任意多个二进制crate(binary crate)，\n但是必须至少包含一个crate（无论是库的还是二进制的）。",
       "fontSize": 20,
       "fontFamily": 1,
+      "text": "包中可以包含至多一个库crate(library crate)，可以包含任意多个二进制crate(binary crate)，\n但是必须至少包含一个crate（无论是库的还是二进制的）。",
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 43,
       "containerId": null,
       "originalText": "包中可以包含至多一个库crate(library crate)，可以包含任意多个二进制crate(binary crate)，\n但是必须至少包含一个crate（无论是库的还是二进制的）。",
       "lineHeight": 1.25,
-      "isFrameName": false
+      "baseline": 43
     },
     {
-      "id": "Ezm5o0eDvv-l7iWk9O5-v",
       "type": "text",
-      "x": 615.5179443359375,
+      "version": 239,
+      "versionNonce": 737856938,
+      "isDeleted": false,
+      "id": "Ezm5o0eDvv-l7iWk9O5-v",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 606.5179443359375,
       "y": 653,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
       "width": 602.2998046875,
+      "height": 25,
+      "seed": 1252340412,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1688450070110,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "crate根文件将由Cargo传递给rustc来实际构建库或者二进制项目。",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "crate根文件将由Cargo传递给rustc来实际构建库或者二进制项目。",
+      "lineHeight": 1.25,
+      "baseline": 18
+    },
+    {
+      "type": "text",
+      "version": 203,
+      "versionNonce": 1075952118,
+      "isDeleted": false,
+      "id": "NqwObtZUgXgBxClkpDDX1",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 606.5179443359375,
+      "y": 592,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 618.8797607421875,
+      "height": 50,
+      "seed": 153373372,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1688450070110,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "对于二进制crate，crate root为src/main.rs，crate名与包名一致；\n对于库crate，crate root为src/lib.rs，crate名与包名一致。",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "对于二进制crate，crate root为src/main.rs，crate名与包名一致；\n对于库crate，crate root为src/lib.rs，crate名与包名一致。",
+      "lineHeight": 1.25,
+      "baseline": 43
+    },
+    {
+      "id": "HVhLe3OKAyTMjaibxrdK_",
+      "type": "text",
+      "x": 606.5179443359375,
+      "y": 726,
+      "width": 1188.43994140625,
       "height": 25,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -373,31 +417,31 @@
       "groupIds": [],
       "frameId": null,
       "roundness": null,
-      "seed": 1252340412,
-      "version": 238,
-      "versionNonce": 1491494076,
+      "seed": 1847148790,
+      "version": 33,
+      "versionNonce": 392661098,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1688361182670,
+      "updated": 1688450070110,
       "link": null,
       "locked": false,
-      "text": "crate根文件将由Cargo传递给rustc来实际构建库或者二进制项目。",
+      "text": "一旦一个模块是你crate的一部分，你可以在隐私规则允许的前提下，从同一个crate内的任意地方，通过代码路径引用该模块的代码。",
       "fontSize": 20,
       "fontFamily": 1,
       "textAlign": "left",
       "verticalAlign": "top",
       "baseline": 18,
       "containerId": null,
-      "originalText": "crate根文件将由Cargo传递给rustc来实际构建库或者二进制项目。",
+      "originalText": "一旦一个模块是你crate的一部分，你可以在隐私规则允许的前提下，从同一个crate内的任意地方，通过代码路径引用该模块的代码。",
       "lineHeight": 1.25,
       "isFrameName": false
     },
     {
-      "id": "NqwObtZUgXgBxClkpDDX1",
+      "id": "wBXBRnu_HGryr5vgK3weL",
       "type": "text",
-      "x": 618.5179443359375,
-      "y": 592,
-      "width": 618.8797607421875,
+      "x": 606.5179443359375,
+      "y": 763,
+      "width": 891.619873046875,
       "height": 50,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -410,32 +454,553 @@
       "groupIds": [],
       "frameId": null,
       "roundness": null,
-      "seed": 153373372,
-      "version": 202,
-      "versionNonce": 1167994940,
+      "seed": 1464363510,
+      "version": 57,
+      "versionNonce": 1160341238,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1688361162420,
+      "updated": 1688450059164,
       "link": null,
       "locked": false,
-      "text": "对于二进制crate，crate root为src/main.rs，crate名与包名一致；\n对于库crate，crate root为src/lib.rs，crate名与包名一致。",
+      "text": "一个模块里的代码默认对其父模块私有。为了使一个模块公用，应当在声明时使用pub mod替代mod。\n为了使一个公用模块内部的成员公用，应当在声明前使用pub。",
       "fontSize": 20,
       "fontFamily": 1,
       "textAlign": "left",
       "verticalAlign": "top",
       "baseline": 43,
       "containerId": null,
-      "originalText": "对于二进制crate，crate root为src/main.rs，crate名与包名一致；\n对于库crate，crate root为src/lib.rs，crate名与包名一致。",
+      "originalText": "一个模块里的代码默认对其父模块私有。为了使一个模块公用，应当在声明时使用pub mod替代mod。\n为了使一个公用模块内部的成员公用，应当在声明前使用pub。",
       "lineHeight": 1.25,
       "isFrameName": false
     },
     {
-      "id": "liukBTzNWxbfpEti45nom",
+      "id": "Ru9DouSDUKTqpUca1LBnF",
       "type": "text",
-      "x": 627.7979736328125,
-      "y": 437,
-      "width": 679.43994140625,
-      "height": 50,
+      "x": 480.5179443359375,
+      "y": 219,
+      "width": 20,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1425798634,
+      "version": 14,
+      "versionNonce": 316898998,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688450103924,
+      "link": null,
+      "locked": false,
+      "text": "包",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "包",
+      "lineHeight": 1.25,
+      "isFrameName": false
+    },
+    {
+      "id": "UWAi_HOoiNJ-KMw4UQYww",
+      "type": "text",
+      "x": 459.5179443359375,
+      "y": 487,
+      "width": 54.21995544433594,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1050980586,
+      "version": 44,
+      "versionNonce": 1492884790,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688450105974,
+      "link": null,
+      "locked": false,
+      "text": "crate",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "crate",
+      "lineHeight": 1.25,
+      "isFrameName": false
+    },
+    {
+      "id": "udWSvyPEuy_9aosTuOcBK",
+      "type": "text",
+      "x": 462.5179443359375,
+      "y": 760,
+      "width": 40,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 136001782,
+      "version": 38,
+      "versionNonce": 41906486,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688450108403,
+      "link": null,
+      "locked": false,
+      "text": "模块",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "模块",
+      "lineHeight": 1.25,
+      "isFrameName": false
+    },
+    {
+      "id": "7MKNJ8LijDJwgMKdWCY9_",
+      "type": "freedraw",
+      "x": 592.5179443359375,
+      "y": 205,
+      "width": 5,
+      "height": 110,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 254270070,
+      "version": 26,
+      "versionNonce": 247750890,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688450117962,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          0
+        ],
+        [
+          -1,
+          5
+        ],
+        [
+          -1,
+          8
+        ],
+        [
+          1,
+          15
+        ],
+        [
+          2,
+          21
+        ],
+        [
+          2,
+          28
+        ],
+        [
+          2,
+          36
+        ],
+        [
+          2,
+          42
+        ],
+        [
+          2,
+          47
+        ],
+        [
+          2,
+          51
+        ],
+        [
+          3,
+          60
+        ],
+        [
+          3,
+          68
+        ],
+        [
+          3,
+          77
+        ],
+        [
+          4,
+          81
+        ],
+        [
+          4,
+          84
+        ],
+        [
+          4,
+          88
+        ],
+        [
+          4,
+          94
+        ],
+        [
+          4,
+          100
+        ],
+        [
+          4,
+          104
+        ],
+        [
+          4,
+          106
+        ],
+        [
+          4,
+          108
+        ],
+        [
+          4,
+          109
+        ],
+        [
+          4,
+          110
+        ],
+        [
+          4,
+          110
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        4,
+        110
+      ]
+    },
+    {
+      "id": "p6pTOeMTI3WKZ4pWAhtSX",
+      "type": "freedraw",
+      "x": 583.5179443359375,
+      "y": 384,
+      "width": 13,
+      "height": 283,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1994259126,
+      "version": 61,
+      "versionNonce": 630962230,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688450120436,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          9
+        ],
+        [
+          1,
+          20
+        ],
+        [
+          1,
+          31
+        ],
+        [
+          1,
+          43
+        ],
+        [
+          2,
+          59
+        ],
+        [
+          5,
+          80
+        ],
+        [
+          7,
+          88
+        ],
+        [
+          7,
+          93
+        ],
+        [
+          7,
+          98
+        ],
+        [
+          7,
+          104
+        ],
+        [
+          7,
+          112
+        ],
+        [
+          7,
+          120
+        ],
+        [
+          7,
+          126
+        ],
+        [
+          7,
+          132
+        ],
+        [
+          7,
+          138
+        ],
+        [
+          7,
+          143
+        ],
+        [
+          7,
+          149
+        ],
+        [
+          7,
+          157
+        ],
+        [
+          7,
+          167
+        ],
+        [
+          6,
+          174
+        ],
+        [
+          5,
+          182
+        ],
+        [
+          4,
+          187
+        ],
+        [
+          3,
+          189
+        ],
+        [
+          3,
+          191
+        ],
+        [
+          2,
+          195
+        ],
+        [
+          2,
+          199
+        ],
+        [
+          2,
+          204
+        ],
+        [
+          2,
+          208
+        ],
+        [
+          2,
+          211
+        ],
+        [
+          1,
+          216
+        ],
+        [
+          0,
+          218
+        ],
+        [
+          0,
+          223
+        ],
+        [
+          0,
+          229
+        ],
+        [
+          -2,
+          235
+        ],
+        [
+          -3,
+          239
+        ],
+        [
+          -4,
+          242
+        ],
+        [
+          -5,
+          245
+        ],
+        [
+          -5,
+          249
+        ],
+        [
+          -5,
+          254
+        ],
+        [
+          -5,
+          259
+        ],
+        [
+          -5,
+          263
+        ],
+        [
+          -6,
+          266
+        ],
+        [
+          -6,
+          269
+        ],
+        [
+          -6,
+          272
+        ],
+        [
+          -6,
+          275
+        ],
+        [
+          -6,
+          276
+        ],
+        [
+          -5,
+          278
+        ],
+        [
+          -5,
+          279
+        ],
+        [
+          -4,
+          280
+        ],
+        [
+          -4,
+          282
+        ],
+        [
+          -3,
+          283
+        ],
+        [
+          -2,
+          283
+        ],
+        [
+          -1,
+          281
+        ],
+        [
+          1,
+          279
+        ],
+        [
+          0,
+          278
+        ],
+        [
+          0,
+          278
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        0,
+        278
+      ]
+    },
+    {
+      "id": "GB3hddHmCQY6KW_qm-ru6",
+      "type": "text",
+      "x": 605.5179443359375,
+      "y": 920,
+      "width": 733.1599731445312,
+      "height": 25,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -447,22 +1012,59 @@
       "groupIds": [],
       "frameId": null,
       "roundness": null,
-      "seed": 2127916664,
-      "version": 97,
-      "versionNonce": 88237176,
+      "seed": 359113398,
+      "version": 77,
+      "versionNonce": 222861738,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1688360482044,
+      "updated": 1688450187766,
       "link": null,
       "locked": false,
-      "text": "crate有两种形式：二进制项和库。二进制项可以被编译为可执行程序，\n它们必须有一个main函数，main函数中定义程序执行的时候所需要做的事情。",
+      "text": "在一个作用域内，use关键字创建了一个成员的快捷方式，用来减少长路径的重复。",
       "fontSize": 20,
       "fontFamily": 1,
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 43,
+      "baseline": 18,
       "containerId": null,
-      "originalText": "crate有两种形式：二进制项和库。二进制项可以被编译为可执行程序，\n它们必须有一个main函数，main函数中定义程序执行的时候所需要做的事情。",
+      "originalText": "在一个作用域内，use关键字创建了一个成员的快捷方式，用来减少长路径的重复。",
+      "lineHeight": 1.25,
+      "isFrameName": false
+    },
+    {
+      "id": "N4RZ3WXizHh2G7UkgtYZL",
+      "type": "text",
+      "x": 608.5179443359375,
+      "y": 820,
+      "width": 420,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 713654070,
+      "version": 84,
+      "versionNonce": 1829291574,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688450261863,
+      "link": null,
+      "locked": false,
+      "text": "模块可以是内联的，也可以是一个单独的文件。",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "模块可以是内联的，也可以是一个单独的文件。",
       "lineHeight": 1.25,
       "isFrameName": false
     }
